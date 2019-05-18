@@ -1,0 +1,20 @@
+FINAL PROJECT: CSE 6363 MACHINE LEARNING 
+Topic- Stock Market Prediction with ARIMA Model
+
+Steps to be followed in order to run the project.
+1. Extract all the files in the zip in a folder of your choice. Please note that all the files
+need to be present in the same folder.
+
+2. You will need to install all of the following libraries before running the code.
+Pandas
+numpy
+pandas_datareader
+math
+matplotlib
+statsmodels
+
+3. Once the libraries are successfully installed, you can run the python file in a
+terminal.
+
+4. select one of the 2 companies on which you want to perform the experiment and
+you can view the results of the experiment.
